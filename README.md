@@ -1,4 +1,7 @@
 # HashTable
+
+![CMake](https://github.com/avivnaaman/HashTable/workflows/CMake/badge.svg?branch=master)
+
 An implementation of a Hash Table in C for Data Structures & Algorithms Coure in the Open University of Israel (20407).
 (Rights to the structure idea is reserved to the Open University of Israel)
 ## Data Structure
