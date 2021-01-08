@@ -88,8 +88,8 @@ void analyzeK(int k, string *insert[FILE_LINES], string *check[FILE_LINES]) {
 
 int main() {
 	string *insert[FILE_LINES], *check[FILE_LINES];
-	FILE *insert_file = fopen("input/input_insert.txt", "r");
-	FILE *check_file = fopen("input/input_check.txt", "r");
+	FILE *insert_file = fopen("input/long2.txt", "r");
+	FILE *check_file = fopen("input/long1.txt", "r");
 	read_to_arr(insert, insert_file);
 	read_to_arr(check, check_file);
 
